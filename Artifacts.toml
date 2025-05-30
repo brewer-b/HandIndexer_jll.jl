@@ -1,0 +1,160 @@
+[[HandIndexer]]
+arch = "aarch64"
+git-tree-sha1 = "45595639ca4f5b970340d068036f047bae949c2f"
+os = "macos"
+
+    [[HandIndexer.download]]
+    sha256 = "1bbad4e203600c48bec145b82070330e945a0b53ba4364832c28392c987e539f"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.aarch64-apple-darwin.tar.gz"
+[[HandIndexer]]
+arch = "aarch64"
+git-tree-sha1 = "489bcedd0dd8a0d548423603d1fb533cd1eac264"
+libc = "glibc"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "d14956303fbbe06b940a53c536fe3a6e952dc4416ffe5c16f3009cdae56b0078"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.aarch64-linux-gnu.tar.gz"
+[[HandIndexer]]
+arch = "aarch64"
+git-tree-sha1 = "4ef57d0a7d60dddfb58ff07866af5c3f93a244f5"
+libc = "musl"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "785700b409ac5690ce9e1a778da0a591714d650aa374498657b3113080befa17"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.aarch64-linux-musl.tar.gz"
+[[HandIndexer]]
+arch = "aarch64"
+git-tree-sha1 = "dccffbfa6a42d7729ad74c8302b248b92235a69b"
+os = "freebsd"
+
+    [[HandIndexer.download]]
+    sha256 = "00d38de51fd98d8687bcc9a8b99abbeaf08ae8715bc8658b7b50a3e6ffcc4ab7"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.aarch64-unknown-freebsd.tar.gz"
+[[HandIndexer]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "26c336b76777da70fde35040c9041a596f86f6c2"
+libc = "glibc"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "ac22b09b630b97c6ee05079a70d863cdf791ef5db70777510de49bc64650844a"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.armv6l-linux-gnueabihf.tar.gz"
+[[HandIndexer]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7d1961d6b630be0a2c07f4e012fc3da0cf410607"
+libc = "musl"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "8f35ec259e85ffeb07341ddd34253c4070b7874ead125a84d50b7e87867aa00a"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.armv6l-linux-musleabihf.tar.gz"
+[[HandIndexer]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "10d47769d7838d76e54803d6a86002ddccea4a59"
+libc = "glibc"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "766d58f65bbfcc6e4d98f027491d25e9d87d276dbf4b448b7469d9477ddd66b2"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[HandIndexer]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "043317e48f81c9cc22d1e406b964e7fdec8f62f5"
+libc = "musl"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "3b0e82263914dd32e5e338f287a22aa7747881debed2d6c29916f11abc4a2f06"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+[[HandIndexer]]
+arch = "i686"
+git-tree-sha1 = "82da65182d5935ed22cadd97bed86ac3bb5727f6"
+libc = "glibc"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "877a0a93e13ad158b3dbf932aad65b92d0bd72790dbe4a26e7bc66553d8fc4b0"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.i686-linux-gnu.tar.gz"
+[[HandIndexer]]
+arch = "i686"
+git-tree-sha1 = "b54f84ff1068c99fe369b38efa5a9ea8e7887eb4"
+libc = "musl"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "610c75dc21dd3571a3e8edb6f4e14bf557a33e6c8e514aa44cc1b60d7871a1d4"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.i686-linux-musl.tar.gz"
+[[HandIndexer]]
+arch = "i686"
+git-tree-sha1 = "6b5f1c2863fec6c0bb5b1ef572f6fa1c2bdc1211"
+os = "windows"
+
+    [[HandIndexer.download]]
+    sha256 = "b327221d8aee76f34c59eeac31f4d0d64908ec0a68521c85a073b8b7d2ad83e6"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.i686-w64-mingw32.tar.gz"
+[[HandIndexer]]
+arch = "powerpc64le"
+git-tree-sha1 = "af73d9bad28121e9b3e26b53f5142c5db045798c"
+libc = "glibc"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "71f24f2f44162e28ee576f99958282ca31a37eb6427d0ab9e1023a633e4a1abc"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+[[HandIndexer]]
+arch = "riscv64"
+git-tree-sha1 = "87b234db9a12c6a1060911bc67d6fbc28dc21c1a"
+libc = "glibc"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "54c6726871a40878c7143cf804ff0fa9667be8a2f6a278f264578354925fa06e"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.riscv64-linux-gnu.tar.gz"
+[[HandIndexer]]
+arch = "x86_64"
+git-tree-sha1 = "520ced45029f1065cce9bcfd86956169d0092e32"
+os = "macos"
+
+    [[HandIndexer.download]]
+    sha256 = "5e778da789ad620c42949cd125dce2950118b9460420c9a8fbd91f1903b2b3a4"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.x86_64-apple-darwin.tar.gz"
+[[HandIndexer]]
+arch = "x86_64"
+git-tree-sha1 = "6e95dfc10e94aeb8e501db0837ca4ab2a713ba2b"
+libc = "glibc"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "4078913df7fa39e123a434d45ef12de36defbfdc8e297dacacc66e7e2ea916e8"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[HandIndexer]]
+arch = "x86_64"
+git-tree-sha1 = "9e8d65ccb4412a634da66a872331458747a93435"
+libc = "musl"
+os = "linux"
+
+    [[HandIndexer.download]]
+    sha256 = "c8fd2a6f5a443b5838f68e2c0de9bf2fa36430e30690e406d6c12b943fb999cf"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.x86_64-linux-musl.tar.gz"
+[[HandIndexer]]
+arch = "x86_64"
+git-tree-sha1 = "a4b8c7e3708d54b285cf9c160afbe50ba2e956d0"
+os = "freebsd"
+
+    [[HandIndexer.download]]
+    sha256 = "a0c2849a9dd94e9d37fc1b8f17e464ef759204ec11d5c62fe7cd7a622fc00c3c"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+[[HandIndexer]]
+arch = "x86_64"
+git-tree-sha1 = "513238743e2716b948bd7a943d980dd898c410b1"
+os = "windows"
+
+    [[HandIndexer.download]]
+    sha256 = "7187c44a6f1c67928421fefb90ab4e789cd34c98ada3ea7fdf64052c2c0ef24f"
+    url = "https://github.com/brewer-b/HandIndexer_jll.jl/releases/download/HandIndexer-v0.0.1+0/HandIndexer.v0.0.1.x86_64-w64-mingw32.tar.gz"
